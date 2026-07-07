@@ -146,7 +146,6 @@ Tests use an in-memory H2 database and do not require PostgreSQL or Keycloak.
 ## Project Structure
 
 ```
-task-service/
 ├── src/main/java/com/example/taskmanagementservice/
 │   ├── application/        # Services, DTOs, security
 │   ├── domain/             # Domain model & repository interfaces
